@@ -23,7 +23,7 @@
         padding: 48px;
         background-color: #111111de;
 
-        
+         
 
         &_nav {
             display: flex;
@@ -38,6 +38,7 @@
     }
 
     body {
+        height: 100vh;
         overflow-y: hidden;
     }
 

@@ -406,6 +406,7 @@ body, html {
     font-size: 24px;
   }
   body {
+    height: 100vh;
     overflow-y: hidden;
   }
 }/*# sourceMappingURL=main.css.map */
